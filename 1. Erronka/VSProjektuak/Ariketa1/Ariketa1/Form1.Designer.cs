@@ -35,6 +35,8 @@
             btnEsaldi4 = new Button();
             btnEsaldi3 = new Button();
             tbIdatzi = new TextBox();
+            btnIrten = new Button();
+            btnGarbitu = new Button();
             SuspendLayout();
             // 
             // btnEsaldi1
@@ -111,11 +113,35 @@
             tbIdatzi.TabIndex = 6;
             tbIdatzi.TextChanged += tbIdatzi_TextChanged;
             // 
+            // btnIrten
+            // 
+            btnIrten.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
+            btnIrten.Location = new Point(466, 350);
+            btnIrten.Name = "btnIrten";
+            btnIrten.Size = new Size(136, 42);
+            btnIrten.TabIndex = 7;
+            btnIrten.Text = "Irten";
+            btnIrten.UseVisualStyleBackColor = true;
+            btnIrten.Click += btnIrten_Click;
+            // 
+            // btnGarbitu
+            // 
+            btnGarbitu.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
+            btnGarbitu.Location = new Point(210, 350);
+            btnGarbitu.Name = "btnGarbitu";
+            btnGarbitu.Size = new Size(136, 42);
+            btnGarbitu.TabIndex = 8;
+            btnGarbitu.Text = "Garbitu";
+            btnGarbitu.UseVisualStyleBackColor = true;
+            btnGarbitu.Click += btnGarbitu_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnGarbitu);
+            Controls.Add(btnIrten);
             Controls.Add(tbIdatzi);
             Controls.Add(btnEsaldi3);
             Controls.Add(btnEsaldi4);
@@ -138,5 +164,7 @@
         private Button btnEsaldi4;
         private Button btnEsaldi3;
         private TextBox tbIdatzi;
+        private Button btnIrten;
+        private Button btnGarbitu;
     }
 }
