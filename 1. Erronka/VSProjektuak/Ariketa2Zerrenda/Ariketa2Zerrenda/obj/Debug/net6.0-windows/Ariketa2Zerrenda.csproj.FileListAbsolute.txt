@@ -1,0 +1,16 @@
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2Zerrenda\Ariketa2Zerrenda\obj\Debug\net6.0-windows\Ariketa2Zerrenda.Form1.resources
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2Zerrenda\Ariketa2Zerrenda\obj\Debug\net6.0-windows\Ariketa2Zerrenda.csproj.GenerateResource.cache
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2Zerrenda\Ariketa2Zerrenda\obj\Debug\net6.0-windows\Ariketa2Zerrenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2Zerrenda\Ariketa2Zerrenda\obj\Debug\net6.0-windows\Ariketa2Zerrenda.AssemblyInfoInputs.cache
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2Zerrenda\Ariketa2Zerrenda\obj\Debug\net6.0-windows\Ariketa2Zerrenda.AssemblyInfo.cs
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2Zerrenda\Ariketa2Zerrenda\obj\Debug\net6.0-windows\Ariketa2Zerrenda.csproj.CoreCompileInputs.cache
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2Zerrenda\Ariketa2Zerrenda\bin\Debug\net6.0-windows\Ariketa2Zerrenda.exe
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2Zerrenda\Ariketa2Zerrenda\bin\Debug\net6.0-windows\Ariketa2Zerrenda.deps.json
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2Zerrenda\Ariketa2Zerrenda\bin\Debug\net6.0-windows\Ariketa2Zerrenda.runtimeconfig.json
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2Zerrenda\Ariketa2Zerrenda\bin\Debug\net6.0-windows\Ariketa2Zerrenda.dll
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2Zerrenda\Ariketa2Zerrenda\bin\Debug\net6.0-windows\Ariketa2Zerrenda.pdb
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2Zerrenda\Ariketa2Zerrenda\obj\Debug\net6.0-windows\Ariketa2Zerrenda.dll
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2Zerrenda\Ariketa2Zerrenda\obj\Debug\net6.0-windows\refint\Ariketa2Zerrenda.dll
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2Zerrenda\Ariketa2Zerrenda\obj\Debug\net6.0-windows\Ariketa2Zerrenda.pdb
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2Zerrenda\Ariketa2Zerrenda\obj\Debug\net6.0-windows\Ariketa2Zerrenda.genruntimeconfig.cache
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\Ariketa2Zerrenda\Ariketa2Zerrenda\obj\Debug\net6.0-windows\ref\Ariketa2Zerrenda.dll
