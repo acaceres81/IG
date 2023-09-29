@@ -103,8 +103,8 @@ namespace Ariketa3
 
             if (rbKotaktua.Checked)
             {
-                MessageBox.Show(kontaktua.ToString());
                 kontaktua.gorde();
+                MessageBox.Show(kontaktua.ToString());
                 kontaktulist.Add(kontaktua);
             }
             else if (rbBezeroa.Checked)
