@@ -1,0 +1,5 @@
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\KaixoDII\KaixoDII\obj\Debug\KaixoDII.csproj.AssemblyReference.cache
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\KaixoDII\KaixoDII\obj\Debug\KaixoDll.Kaixo.resources
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\KaixoDII\KaixoDII\obj\Debug\KaixoDII.csproj.GenerateResource.cache
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\KaixoDII\KaixoDII\obj\Debug\KaixoDII.csproj.CoreCompileInputs.cache
+C:\Users\caceres.alberto\Desktop\IG\1. Erronka\VSProjektuak\KaixoDII\KaixoDII\obj\Debug\KaixoDII.Kaixo.resources
