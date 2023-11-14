@@ -1,0 +1,8 @@
+C:\Users\caceres.alberto\Desktop\IG\OSAGAIAK\BestSellersdll\BestSellersdll\bin\Debug\BestSellersdll.dll
+C:\Users\caceres.alberto\Desktop\IG\OSAGAIAK\BestSellersdll\BestSellersdll\bin\Debug\BestSellersdll.pdb
+C:\Users\caceres.alberto\Desktop\IG\OSAGAIAK\BestSellersdll\BestSellersdll\obj\Debug\BestSellersdll.csproj.AssemblyReference.cache
+C:\Users\caceres.alberto\Desktop\IG\OSAGAIAK\BestSellersdll\BestSellersdll\obj\Debug\BestSellersdll.UserControl1.resources
+C:\Users\caceres.alberto\Desktop\IG\OSAGAIAK\BestSellersdll\BestSellersdll\obj\Debug\BestSellersdll.csproj.GenerateResource.cache
+C:\Users\caceres.alberto\Desktop\IG\OSAGAIAK\BestSellersdll\BestSellersdll\obj\Debug\BestSellersdll.csproj.CoreCompileInputs.cache
+C:\Users\caceres.alberto\Desktop\IG\OSAGAIAK\BestSellersdll\BestSellersdll\obj\Debug\BestSellersdll.dll
+C:\Users\caceres.alberto\Desktop\IG\OSAGAIAK\BestSellersdll\BestSellersdll\obj\Debug\BestSellersdll.pdb

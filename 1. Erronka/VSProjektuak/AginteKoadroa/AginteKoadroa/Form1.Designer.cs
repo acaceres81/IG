@@ -28,39 +28,45 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Title title2 = new System.Windows.Forms.DataVisualization.Charting.Title();
+            this.components = new System.ComponentModel.Container();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.Title title1 = new System.Windows.Forms.DataVisualization.Charting.Title();
             this.BezSal = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.userControl11 = new GrafikoaDll.UserControl1();
+            this.helpProvider1 = new System.Windows.Forms.HelpProvider();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.BezSal)).BeginInit();
             this.SuspendLayout();
             // 
             // BezSal
             // 
-            chartArea2.Name = "ChartArea1";
-            this.BezSal.ChartAreas.Add(chartArea2);
+            chartArea1.Name = "ChartArea1";
+            this.BezSal.ChartAreas.Add(chartArea1);
+            this.helpProvider1.SetHelpString(this.BezSal, "Grafiko honek saltzaile bakoitzak dituen bezeroak erakusten ditu.");
             this.BezSal.Location = new System.Drawing.Point(12, 338);
             this.BezSal.Name = "BezSal";
-            this.BezSal.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.Fire;
-            series2.ChartArea = "ChartArea1";
-            series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Bar;
-            series2.Name = "Series1";
-            this.BezSal.Series.Add(series2);
+            this.BezSal.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.Excel;
+            series1.ChartArea = "ChartArea1";
+            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Bar;
+            series1.Name = "Series1";
+            this.BezSal.Series.Add(series1);
+            this.helpProvider1.SetShowHelp(this.BezSal, true);
             this.BezSal.Size = new System.Drawing.Size(463, 331);
             this.BezSal.TabIndex = 0;
             this.BezSal.Text = "Bezeroak Saltzaile Bakoitzeko";
-            title2.Name = "Title1";
-            title2.Text = "Bezeroak Saltzaile bakoitzeko";
-            this.BezSal.Titles.Add(title2);
+            title1.Name = "Title1";
+            title1.Text = "Bezeroak Saltzaile bakoitzeko";
+            this.BezSal.Titles.Add(title1);
             this.BezSal.Click += new System.EventHandler(this.chart1_Click);
             // 
             // userControl11
             // 
-            this.userControl11.Location = new System.Drawing.Point(535, 338);
+            this.userControl11.Location = new System.Drawing.Point(589, 338);
             this.userControl11.Name = "userControl11";
-            this.userControl11.Size = new System.Drawing.Size(625, 301);
+            this.userControl11.Size = new System.Drawing.Size(442, 301);
             this.userControl11.TabIndex = 1;
+            this.toolTip1.SetToolTip(this.userControl11, "Grafiko honek beste zerbait erakusten du.\r\n");
             // 
             // Form1
             // 
@@ -69,6 +75,9 @@
             this.ClientSize = new System.Drawing.Size(1364, 695);
             this.Controls.Add(this.userControl11);
             this.Controls.Add(this.BezSal);
+            this.HelpButton = true;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -81,6 +90,8 @@
 
         private System.Windows.Forms.DataVisualization.Charting.Chart BezSal;
         private GrafikoaDll.UserControl1 userControl11;
+        private System.Windows.Forms.HelpProvider helpProvider1;
+        private System.Windows.Forms.ToolTip toolTip1;
     }
 }
 
