@@ -1,0 +1,16 @@
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\ZenbakiakArrayekin\ZenbakiakArrayekin\bin\Debug\net6.0-windows\ZenbakiakArrayekin.exe
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\ZenbakiakArrayekin\ZenbakiakArrayekin\bin\Debug\net6.0-windows\ZenbakiakArrayekin.deps.json
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\ZenbakiakArrayekin\ZenbakiakArrayekin\bin\Debug\net6.0-windows\ZenbakiakArrayekin.runtimeconfig.json
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\ZenbakiakArrayekin\ZenbakiakArrayekin\bin\Debug\net6.0-windows\ZenbakiakArrayekin.dll
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\ZenbakiakArrayekin\ZenbakiakArrayekin\bin\Debug\net6.0-windows\ZenbakiakArrayekin.pdb
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\ZenbakiakArrayekin\ZenbakiakArrayekin\obj\Debug\net6.0-windows\ZenbakiakArrayekin.Form1.resources
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\ZenbakiakArrayekin\ZenbakiakArrayekin\obj\Debug\net6.0-windows\ZenbakiakArrayekin.csproj.GenerateResource.cache
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\ZenbakiakArrayekin\ZenbakiakArrayekin\obj\Debug\net6.0-windows\ZenbakiakArrayekin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\ZenbakiakArrayekin\ZenbakiakArrayekin\obj\Debug\net6.0-windows\ZenbakiakArrayekin.AssemblyInfoInputs.cache
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\ZenbakiakArrayekin\ZenbakiakArrayekin\obj\Debug\net6.0-windows\ZenbakiakArrayekin.AssemblyInfo.cs
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\ZenbakiakArrayekin\ZenbakiakArrayekin\obj\Debug\net6.0-windows\ZenbakiakArrayekin.csproj.CoreCompileInputs.cache
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\ZenbakiakArrayekin\ZenbakiakArrayekin\obj\Debug\net6.0-windows\ZenbakiakArrayekin.dll
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\ZenbakiakArrayekin\ZenbakiakArrayekin\obj\Debug\net6.0-windows\refint\ZenbakiakArrayekin.dll
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\ZenbakiakArrayekin\ZenbakiakArrayekin\obj\Debug\net6.0-windows\ZenbakiakArrayekin.pdb
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\ZenbakiakArrayekin\ZenbakiakArrayekin\obj\Debug\net6.0-windows\ZenbakiakArrayekin.genruntimeconfig.cache
+C:\Users\probi\Desktop\IG\1. Erronka\VSProjektuak\ZenbakiakArrayekin\ZenbakiakArrayekin\obj\Debug\net6.0-windows\ref\ZenbakiakArrayekin.dll

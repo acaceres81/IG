@@ -1,0 +1,9 @@
+C:\Users\probi\Desktop\Azterketa ikasleentzat\CookpadDll\CookpadDll\bin\Debug\CookpadDll.dll
+C:\Users\probi\Desktop\Azterketa ikasleentzat\CookpadDll\CookpadDll\bin\Debug\CookpadDll.pdb
+C:\Users\probi\Desktop\Azterketa ikasleentzat\CookpadDll\CookpadDll\obj\Debug\CookpadDll.csproj.AssemblyReference.cache
+C:\Users\probi\Desktop\Azterketa ikasleentzat\CookpadDll\CookpadDll\obj\Debug\CookpadDll.Properties.Resources.resources
+C:\Users\probi\Desktop\Azterketa ikasleentzat\CookpadDll\CookpadDll\obj\Debug\CookpadDll.UserControl1.resources
+C:\Users\probi\Desktop\Azterketa ikasleentzat\CookpadDll\CookpadDll\obj\Debug\CookpadDll.csproj.GenerateResource.cache
+C:\Users\probi\Desktop\Azterketa ikasleentzat\CookpadDll\CookpadDll\obj\Debug\CookpadDll.csproj.CoreCompileInputs.cache
+C:\Users\probi\Desktop\Azterketa ikasleentzat\CookpadDll\CookpadDll\obj\Debug\CookpadDll.dll
+C:\Users\probi\Desktop\Azterketa ikasleentzat\CookpadDll\CookpadDll\obj\Debug\CookpadDll.pdb
