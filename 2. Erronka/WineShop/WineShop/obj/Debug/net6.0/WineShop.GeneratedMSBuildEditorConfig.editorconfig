@@ -10,6 +10,8 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WineShop
 build_property.RootNamespace = WineShop
 build_property.ProjectDir = C:\Users\caceres.alberto\Desktop\IG\2. Erronka\WineShop\WineShop\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
@@ -26,6 +28,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/caceres.alberto/Desktop/IG/2. Erronka/WineShop/WineShop/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/caceres.alberto/Desktop/IG/2. Erronka/WineShop/WineShop/Views/Shared/Components/Ardoak/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQXJkb2FrXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/caceres.alberto/Desktop/IG/2. Erronka/WineShop/WineShop/Views/Shared/Error.cshtml]

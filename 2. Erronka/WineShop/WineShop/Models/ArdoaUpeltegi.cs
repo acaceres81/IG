@@ -6,4 +6,6 @@
         public string Izena { get; set; }
         public string UpeltegiIzena { get; set; }
     }
+
+
 }
