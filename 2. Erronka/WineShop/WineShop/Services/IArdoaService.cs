@@ -8,5 +8,7 @@ namespace WineShop.Services
 
         Task<List<Ardoa>> GetArdoak();
 
+        Task<Ardoa> GetArdoa(int id);
+
     }
 }
