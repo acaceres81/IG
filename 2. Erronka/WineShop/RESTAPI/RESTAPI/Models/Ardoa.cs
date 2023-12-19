@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 
 namespace RESTAPI.Models
 {
@@ -19,8 +20,11 @@ namespace RESTAPI.Models
         public int Deskontua { get; set; }
         public bool Eskaintza { get; set; }
         public int UpeltegiaId { get; set; }
-        public virtual Upeltegia Upeltegia { get; set; }
         public int MotaId { get; set; }
+
+        [JsonIgnore]
+        public virtual Upeltegia Upeltegia { get; set; }
+        [JsonIgnore]
         public virtual Mota Mota { get; set; }
     }
 }

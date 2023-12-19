@@ -1,29 +1,42 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Wineshop.ViewModels;
+using WineShop.Models;
 using WineShop.Services;
+using WineShop.ViewModels;
 
 namespace WineShop.Controllers
 {
     public class SaskiaController : Controller
     {
-
-       private readonly ISaskiaService _saskiaService;
-
-        public SaskiaController(ISaskiaService saskiaService)
+        private readonly ISaskiaService _saskiaService;
+        private readonly IArdoaService _ardoaService;
+        public SaskiaController(ISaskiaService saskiaService, IArdoaService ardoaService)
         {
             _saskiaService = saskiaService;
+            _ardoaService = ardoaService;
         }
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string id)
         {
-            return View(); // momentuz bista hutsa sortuko dugu (empty txantiloia)
+            IList<SaskiaAlea> saskiaAleaList = new List<SaskiaAlea>();
+            saskiaAleaList = await _saskiaService.SaskiaLortuAleak(id);
+            //Ardo bakoitzaren datuak hartu eta ViewModel bezala sortu
+            IList<SaskiaAleaViewModelbi> saskiaAleaVMList = new List<SaskiaAleaViewModelbi>();
+            foreach (var saskiaAlea in saskiaAleaList)
+            {
+                var ardoa = await _ardoaService.GetArdoa(saskiaAlea.ArdoaId);
+                SaskiaAleaViewModelbi saskiaAleaViewModel = new SaskiaAleaViewModelbi()
+                {
+                    ArdoaId = ardoa.Id,
+                    Irudia = ardoa.Irudia,
+                    Izena = ardoa.Izena,
+                    Kantitatea = saskiaAlea.Kantitatea,
+                    Salneurria = ardoa.Salneurria
+                };
+                saskiaAleaVMList.Add(saskiaAleaViewModel);
+            }
+            var saskiaViewModel = new SaskiaViewModel();
+            saskiaViewModel.SaskiaAleaVMList = saskiaAleaVMList;
+            return View(saskiaViewModel);
         }
-        public async Task<IActionResult> SaskiaGehitu(int id)
-        {
-            var cart = Saskia.SaskiaLortu(this.HttpContext); //aurretik sortu dugun Saskia klasea erabiliz
-            await _saskiaService.SaskiaGehitu(id, cart.SaskiaId); //zerbitzu berrian karritoan gehitzeko
-            return RedirectToAction("Index", new { id = cart.SaskiaId });
-        }
-
-
-        
     }
 }
